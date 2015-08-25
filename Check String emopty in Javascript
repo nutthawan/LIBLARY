@@ -1,0 +1,7 @@
+var initialize = function(){
+    if("{!tradeId}".length === 0 || !"{!tradeId}".trim()){
+        return "{!strRegion}";
+    }else{
+
+    }   
+}
